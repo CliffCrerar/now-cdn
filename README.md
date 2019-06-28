@@ -5,12 +5,15 @@ Inventory:
 
 ---
 
-```txt
-+--- / 
-|--- Gifs
-|--- icon-social-fa-svg-sq
-|--- Learnsql
-||--- Northwind.sql
-|--- svg
+```bash
+/ 
+|- Gifs
+|- icon-social-fa-svg-sq
+|- Learnsql
+| |- Northwind.sql
+\<i>&#8627<i>;- svg
 ```
 
+`
+|- asdasdas
+`
