@@ -1,4 +1,5 @@
 # NOW CDN
+
 #### Static file host on ZEIT - NOW cloud.
 
 Inventory:
@@ -13,4 +14,3 @@ Inventory:
 |		\--- Northwind.sql
 | 	\--- svg
 ```
-
