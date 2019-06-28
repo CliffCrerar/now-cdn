@@ -7,10 +7,10 @@ Inventory:
 
 ```txt
 +--- / 
-|	\--- Gifs
-|	\--- icon-social-fa-svg-sq
-|	\--- Learnsql
-|		\--- Northwind.sql
-| 	\--- svg
+|--- Gifs
+|--- icon-social-fa-svg-sq
+|--- Learnsql
+||--- Northwind.sql
+|--- svg
 ```
 
