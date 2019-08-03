@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "alias": "ia-own-webassets",
+    "name": "ia-own-webassets",
+    "builds": [{
+        "src": "./**/*.*",
+        "use": "@now/static"
+    }]
+}
