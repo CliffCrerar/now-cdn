@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "alias": "aws-ia-branding",
+    "name": "aws-ia-webassets",
+    "builds": [{
+        "src": "**/**/*.*",
+        "use": "@now/static"
+    }]
+}

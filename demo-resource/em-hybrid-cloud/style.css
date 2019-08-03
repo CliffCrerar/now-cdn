@@ -24,6 +24,10 @@ h1 {
     font-size: 45px;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 a {
     cursor: pointer;
     color: #0076ff;
@@ -51,4 +55,47 @@ code:after {
 p {
     text-align: center;
     font-size: 16px;
+}
+
+
+/*--------------------------------------------------------*/
+
+blockquote {
+    font-size: 1em !important;
+    font-style: italic;
+    border-left: 3px solid grey;
+    background: rgb(230, 221, 221);
+    color: rgb(66, 66, 66);
+    margin: 0 !important;
+    padding: 1em 40px 1em 40px;
+}
+
+#content {
+    max-width: 850px;
+    margin: auto;
+}
+
+#content h2 {
+    text-align: left !important;
+}
+
+#content p {
+    text-align: justify;
+}
+
+.heading {}
+
+.heading-1 {
+    position: relative;
+}
+
+.inline-img {
+    position: relative !important;
+}
+
+.inline-images-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
