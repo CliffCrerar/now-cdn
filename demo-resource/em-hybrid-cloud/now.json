@@ -3,7 +3,10 @@
     "alias": "now-cdn-demos",
     "name": "now-static-demos",
     "builds": [{
-        "src": "**/**/*.*",
+        "src": "*.*",
         "use": "@now/static"
+    }, {
+        "src": "./png/*.png",
+        "use": "@now/optipng"
     }]
 }

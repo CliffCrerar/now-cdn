@@ -70,16 +70,18 @@ blockquote {
     padding: 1em 40px 1em 40px;
 }
 
-#content {
+.content-container {
     max-width: 850px;
     margin: auto;
 }
 
-#content h2 {
+.content h2,
+.content ul {
     text-align: left !important;
 }
 
-#content p {
+.content p,
+.content li {
     text-align: justify;
 }
 
@@ -97,5 +99,13 @@ blockquote {
     position: relative;
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+
+.component-image {
+    display: flex;
+    margin: 2vh 0 2vh 0;
+    flex-direction: row;
+    justify-content: flex-start;
     align-items: center;
 }
