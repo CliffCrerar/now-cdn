@@ -1,0 +1,3 @@
+![Management console](https://now-static-demos-dfseyqojm.now.sh/png/management-console.png)
+
+The **Management console** is the window for any user, whether clients who view their backups, developers who develop in the cloud, or administrators are able to develop and use cloud services. In this case the credentials will provide very specific access to only the resources that will allow a user to retrieve backups as required. However in the context of this solution, the feature of accessing backups will depend on the decision regarding the file encryption discussed below.

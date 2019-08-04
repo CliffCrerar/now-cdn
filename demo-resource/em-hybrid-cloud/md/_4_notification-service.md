@@ -1,0 +1,3 @@
+![Notification service](https://now-static-demos-dfseyqojm.now.sh/png/notification-service.png)
+
+The **Notification Service** is required to make sure that intended backups are made as scheduled, sent to the cloud and stored safely. Any deviation or irregularity in the backup operation will trigger an email that will be received by both yourself and Infinity Arc which will prompt an investigative action into why the backup had failed. To ensure all data remain secure all scheduled backups will be paused until the problem has been resolved.

@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "alias": "now-cdn-demos",
-    "name": "now-static-demos",
+    "alias": "em-proposal",
+    "name": "now-cdn-demos",
     "builds": [{
         "src": "*.*",
         "use": "@now/static"

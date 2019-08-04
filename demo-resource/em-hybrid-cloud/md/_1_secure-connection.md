@@ -1,0 +1,3 @@
+![Secure connection](https://now-static-demos-dfseyqojm.now.sh/png/secure-connection.png)
+
+**Secure Connection** is an optional extra for additional security, this creates a super secure connection for when data is traversing the internet. Although this provides added security it also requires the purchase of additional hardware that must be attached to an existing local network environment. Note that a secure connection can be established by other means that could provide the same type of security for data transfer over the internet.

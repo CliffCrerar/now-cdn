@@ -1,0 +1,3 @@
+![S3 storage](https://now-static-demos-dfseyqojm.now.sh/png/s3-storage.png)
+
+The **Simple Storage Service** or **S3** is the destination storage of all the backups. This is also where the backups will remain for the duration of their life cycle. Using the management console (described below) this is also where you will be downloading backups from when required. As this is a simple storage, keeping the data secured in the context of this solution is the implementation of 3 security layers that will be discussed below. 

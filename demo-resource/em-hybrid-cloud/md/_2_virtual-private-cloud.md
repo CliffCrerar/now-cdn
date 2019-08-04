@@ -1,0 +1,3 @@
+![virtual private cloud](https://now-static-demos-dfseyqojm.now.sh/png/virtual-private-cloud.png)
+
+This **Virtual Private Network** is will be your business very own piece of the cloud that will be joined with your local network VIA the AWS storage gateway. It encapsulates the services that will be required to create, update, retrieve and if required delete your cloud backups. Using, the previously mentioned service, **AWS Storage gateway** it will be an extension of your current network and what then creates your Hybrid cloud. The reason for this is so that your services are segregated from any other network in the service providers domain and will also allow for better access control. From the cloud side of the solution this is also the first layer of security.
