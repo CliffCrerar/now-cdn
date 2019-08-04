@@ -8,5 +8,8 @@
     }, {
         "src": "./png/*.png",
         "use": "@now/optipng"
+    }, {
+        "src": "./md/*.md",
+        "use": "@now/static"
     }]
 }
