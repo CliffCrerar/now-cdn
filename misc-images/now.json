@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "alias": "misc-webassets",
+    "name": "misc-webassets",
+    "builds": [{
+        "src": "*.png",
+        "use": "@now/optipng"
+    }]
+}
