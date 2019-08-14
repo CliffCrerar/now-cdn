@@ -4,6 +4,11 @@
     "name": "ia-own-webassets",
     "builds": [{
         "src": "./*.*",
-        "use": "@now/png"
-    }]
+        "use": "@now/optipng"
+    },
+	{
+		"src":"./err-page-assets/*.*",
+		"use":"@now/static"
+	}
+	]
 }
