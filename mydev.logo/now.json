@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "name": "personal-logo",
+    "alias": "personal-logo",
+    "builds": [{
+        "src": "**/*.png",
+        "use": "@now/optipng"
+    }]
+}

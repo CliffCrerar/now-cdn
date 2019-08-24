@@ -3,12 +3,12 @@
     "alias": "ia-own-webassets",
     "name": "ia-own-webassets",
     "builds": [{
-        "src": "./*.*",
-        "use": "@now/optipng"
-    },
-	{
-		"src":"./err-page-assets/*.*",
-		"use":"@now/static"
-	}
-	]
+            "src": "./img/*.png",
+            "use": "@now/optipng"
+        },
+        {
+            "src": "./err-page-assets/*.*",
+            "use": "@now/static"
+        }
+    ]
 }
